@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntimeUnityEditor.JaLoader", "RuntimeUnityEditor.JaLoader\RuntimeUnityEditor.JaLoader.csproj", "{99636437-CD66-40BF-9CE4-3C0C056EDFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99636437-CD66-40BF-9CE4-3C0C056EDFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99636437-CD66-40BF-9CE4-3C0C056EDFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99636437-CD66-40BF-9CE4-3C0C056EDFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99636437-CD66-40BF-9CE4-3C0C056EDFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03EBDEDB-29E2-4F08-8055-37E2938E68C3}
+	EndGlobalSection
+EndGlobal
