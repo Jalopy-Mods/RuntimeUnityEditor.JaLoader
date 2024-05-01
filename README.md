@@ -1,6 +1,7 @@
 # RuntimeUnityEditor.JaLoader
 
 [![](https://img.shields.io/github/downloads/Jalopy-Mods/RuntimeUnityEditor.JaLoader/total)](#)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8OGPIQ)
 
 This is a very primitive port of [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) to JaLoader.
 
